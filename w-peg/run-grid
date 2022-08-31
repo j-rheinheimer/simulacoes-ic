@@ -1,0 +1,12 @@
+#!/bin/bash
+#SBATCH -t 168:00:00 -n 16
+
+module load gaussian
+. linda_set_env
+
+for file in `ls *com`
+do
+
+goo-job-nanny g09 ${file}
+
+done

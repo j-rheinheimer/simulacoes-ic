@@ -1,0 +1,8 @@
+### OTIMIZAÇÃO ###
+
+%nproc=8
+%Mem=4GB
+#p B3LYP/6-31G(d,p)
+# Opt SCRF=(Solvent=Water)
+# Gfinput IOP(6/7=3)  Pop=full  Density  Test
+# Units(Ang,Deg)

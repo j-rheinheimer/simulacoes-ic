@@ -1,0 +1,5 @@
+### COMANDO CHK E CUBE ###
+
+formchk nome_mep.chk
+cubegen 16 density nome_mep.fchk nome_mep_dens.cube 80
+cubegen 16 potential nome_mep.fchk nome_mep_pot.cube 80

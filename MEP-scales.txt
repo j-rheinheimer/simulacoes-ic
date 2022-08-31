@@ -1,0 +1,52 @@
+(TiO2)3:
+	e-3-tio2: 0.10 até -0.10
+	e-3-tio2-h:0.05 até -0.05
+	w-3-tio2: 0.10 até -0.10
+	w-3-tio2-h: 0.05 até -0.05
+
+APPA:
+	e-appa: -0.040 até 0.040
+
+APTMS:
+	e-aptms: -0.030 até 0.030
+	e-aptms-alc: -0.040 até 0.040
+
+MPA:
+	w-mpa: -0.05 até 0.05
+	w-mpa-1dp-coo: -0.20 até -0.090
+	w-mpa-1dp-s: -0.20 até -0.10
+	w-mpa-2dp: -0.30 até -0.25
+
+APPA-v2:
+	w-appa: -0.05 até 0.05
+	w-appa-1dp-cooh: -0.2 até -0.05 
+	w-appa-1p-nh2: -0.05 até 0.2
+	w-appa-1p-nh2-1dp-cooh: -0.1 até 0.1
+	
+APTMS-v2:
+	e-aptms: -0.03 até 0.03
+	e-aptms-1p-nh2: 0.08 até 0.2
+	e-aptms-alc: -0.03 até 0.03
+	e-aptms-alc-1p-nh2: 0.08 até 0.2
+
+MPA-v2:
+	w-mpa: -0.05 até 0.05
+	w-mpa-1dp-cooh: -0.2 até -0.1
+	w-mpa-1dp-sh: -0.19 até -0.1
+	w-mpa-2dp-cooh-sh: -0.31 até -0.26
+
+ETIDRONATE:
+	v-etidronate: 0.03 até -0.03
+	w-etidronate-2dp: -0.15 até -0.33
+	w-etidronate-3dp: -0.30 até -0.40
+
+ALENDRONATE:
+	v-alendronate: 0.03 até -0.03
+	w-alendronate-1p-2dp: 0.10 até -0.20
+
+RISEDRONATE:
+	v-risedronate: 0.03 até -0.03
+	w-risedronate-2dp: -0.10 até -0.30
+	w-risedronate-3dp: -0.20 até -0.45
+
+

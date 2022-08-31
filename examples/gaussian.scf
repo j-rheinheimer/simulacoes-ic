@@ -1,0 +1,8 @@
+### FUKUI ###
+
+%nproc=8
+%Mem=4GB
+#t B3LYP/6-31G(d,p) 
+# SCRF=(Solvent=Water)
+# Gfinput IOP(6/7=3)  Pop=hirshfeld  Density  Test
+# Units(Ang,Deg)
